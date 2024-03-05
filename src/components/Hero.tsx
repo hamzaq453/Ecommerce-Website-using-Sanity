@@ -54,7 +54,7 @@ const Hero = async () => {
         </div>
 
     
-    <div className='flex flex-col items-center justify-between gap-8 md:flex-row -mt-20'>
+    <div className='flex flex-col items-center justify-between gap-8 md:flex-row -mt-20 sm:mt-6'>
         <div className='flex h-12 w-64 divide-x overflow-hidden rounded-lg border'>
             <Link href={"/Men"} 
             className='flex w-1/3 items-center justify-center text-gray-500 transition duration-100 hover:bg-gray-100 active:bg-gray-200'>
